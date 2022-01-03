@@ -1,7 +1,7 @@
 [Variables]
 Color=0078d7
-Width=9
-Height=40
+WheelRadius=18
+BarWidth=9
+BarHeight=40
+BarRadius=2
 Padding=2
-Radius=2
-HandleWidth=11
